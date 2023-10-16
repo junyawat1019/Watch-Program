@@ -1,0 +1,30 @@
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\Watch Program.exe.config
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\Watch Program.exe
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\Watch Program.pdb
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\CircularProgressBar.dll
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\WinFormAnimation.dll
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\CircularProgressBar.xml
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.AssemblyReference.cache
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.SuggestedBindingRedirects.cache
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch_Program.Form1.resources
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch_Program.Properties.Resources.resources
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.GenerateResource.cache
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.CoreCompileInputs.cache
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.CopyComplete
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.exe
+D:\Studio\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.pdb
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\Watch Program.exe.config
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\Watch Program.exe
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\Watch Program.pdb
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\CircularProgressBar.dll
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\WinFormAnimation.dll
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\bin\Debug\CircularProgressBar.xml
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.AssemblyReference.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.SuggestedBindingRedirects.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch_Program.Form1.resources
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch_Program.Properties.Resources.resources
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.GenerateResource.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.CoreCompileInputs.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.csproj.CopyComplete
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.exe
+D:\Daryl Productions\Project\C, C++, C#\C#\Watch Program\Watch Program\obj\Debug\Watch Program.pdb
